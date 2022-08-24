@@ -1,0 +1,130 @@
+10000
+Example:
+
+raw string:
+ Citizen Kane is a 1941 American drama film produced by, directed by, and starring Orson Welles. 
+
+preprocessing:
+ citizen kane is a 1941 american drama film produced by  directed by  and starring orson welles 
+13639
+Length of train_set: 9
+Length of test_set: 1
+1-gram language model using add_one smoothing: P(w|context) add up to 1.0000000000000568
+2-gram language model using add_one smoothing: P(w|context) add up to 0.9999999999998536
+3-gram language model using add_one smoothing: P(w|context) add up to 0.9999999999998536
+1-gram language model using kneser_ney smoothing: P(w|context) add up to 0.9999999999999205
+2-gram language model using kneser_ney smoothing: P(w|context) add up to 1.0000000000002103
+3-gram language model using kneser_ney smoothing: P(w|context) add up to 1.0001534263112455
+10000
+Example:
+
+raw string:
+ Citizen Kane is a 1941 American drama film produced by, directed by, and starring Orson Welles. 
+
+preprocessing:
+ citizen kane is a 1941 american drama film produced by  directed by  and starring orson welles 
+13639
+Length of train_set: 9
+Length of test_set: 1
+1-gram language model using add_one smoothing: P(w|context) add up to 1.000000000000065
+2-gram language model using add_one smoothing: P(w|context) add up to 0.9999999999998563
+3-gram language model using add_one smoothing: P(w|context) add up to 0.9999999999998563
+1-gram language model using kneser_ney smoothing: P(w|context) add up to 0.9999999999999294
+2-gram language model using kneser_ney smoothing: P(w|context) add up to 1.0000000000001714
+3-gram language model using kneser_ney smoothing: P(w|context) add up to 1.000153426311209
+1-gram language model using add_one smoothing.
+	['product', 'functioned', 'fluke', 'suggesting', 'adored', 'reduce', 'mocking', 'enlisted', 'diseased', 'australia', 'mcmillan', 'link', 'readied', 'reports', 'eisner', 'freed', 'racehorse', '82', 'triumphs', 'branded', 'ongoing', 'helmet', 'cooper', 'rko', 'tarzan', 'whimsical', 'overbearing', 'nod', 'ultrasuede', 'shadowlocked', 'stuffed', 'mace', 'remarkably', 'reputation', 'consoles', 'whole', 'epic', 'uhura', 'mountain', 'lobbying', 'calvin', 'argus', 'falcon', 'distortions', 'rescued', 'options', 'olga', 'velocities', 'dirk', 'resolve']
+	['with', 'account', 'answers', 'baaba', 'relegated', 'asylum', 'geopolitics', 'beowulf', 'cardiff', 'childhood', 'altered', 'epcot', 'specialists', 'displaced', 'yet', 'thinly', 'goodies', 'pessimism', 'discusses', 'chimaeras', 'turan', 'allegations', 'pursue', 'ship', 'radiate', 'jelani', 'interact', 'altman', 'angry', 'via', 'subdued', 'parody', '245', 'it', 'stay', 'francisco', 'little', 'convinced', 'm¨¢s', 'diluted', '1977', 'cashawn', 'alpha', 'revival', 'hildebrandt', 'impact', 'blueprint', 'online', 'trafalgar', 'december']
+	['profit', 'capitalize', 'erected', 'green', 'lixie', 'year', 'miyake', 'pressuring', 'lakeshore', 'busy', 'director', 'penobscot', 'referring', 'conrad', 'fire', 'breaking', 'suits', 'consideration', 'splittgerber', 'casino', 'role', 'indicating', 'denise', 'outraged', 'programs', 'jade', 'mercenaries', 'weak', 'fantastic', 'inspired', 'marvelous', 'limitations', 'admission', 'epitomized', 'astromech', 'incentive', 'scratch', 'witnessed', 'notes', 'shawn', 'huerta', 'callow', 'expensive', 'stunt', 'serve', 'fixed', 'playoff', 'princess', 'dethroned', 'duty']
+	['many', '633', 'movies', 'albums', 'conversations', '450', 'announce', 'counterbalance', 'infringement', 'ambient', 'tucholsky', 'remotely', 'choking', 'passive', 'emerged', 'wanted', 'spilling', 'oleff', 'marshy', 'closely', 'enhanced', 'startled', 'sideshow', 'farm', 'jumbled', 'd2', 'thurman', 'hibernation', 'canceled', 'headquarters', 'wine', 'phases', 'indefinitely', 'wraparound', 'seamless', 'poverty', 'semicircular', 'greg', 'corrosion', '120th', 'allow', 'rocky', 'spelling', 'elliot', 'jen', '1968', 'werewolves', 'improbable', 'fielded', 'hadn']
+	['the', 'screen', 'landmarks', 'retiree', 'prominently', 'aftermath', 'auction', 'cistern', 'pushed', 'zola', 'rupert', 'deterioration', 'horizontal', 'throwaway', '90th', 'train', 'nonsense', 'martinet', 'hang', 'scrutinizing', 'fong', 'included', 'contained', 'bahr', 'flavours', 'try', '1965', 'destination', '50th', 'value', 'collector', 'believability', 'pretend', 'starkly', 'shame', '4th', 'walking', 'arguably', 'luther', 'sickness', 'complexity', 'scala', 'remake', 'execute', 'bourne', 'resurrection', '8million', 'stylisation', 'print', '107']
+
+2-gram language model using add_one smoothing.
+	['distribute', 'resemblance', 'dropping', 'libretto', 'origin', 'previous', 'devise', 'underwent', 'kraus', 'bulk', 'armored', 'fairly', 'sneaks', 'martina', 'overseer', 'advisory', 'walruses', 'raise', '337', 'announced', 'posing', 'featuring', 'instantly', 'laurentiis', 'temprano', 'silvery', 'sequence', 'tastes', 'book', 'blob', 'matiste', 'bryggen', 'perform', 'renewal', 'pretending', 'embraced', 'touring', 'lapses', 'compass', 'throughout', 'definitely', 'decide', 'benefits', 'heinrich', 'imported', 'do', 'wires', '59', 'movies', 'brow']
+	['broadnax', 'copyright', 'laquan', '258', 'thanks', 'implored', 'joyce', 'packed', 'transported', 'acceleration', 'characterization', 'transformers', '8th', 'eight', 'irrelevant', 'steals', 'clipper', 'indicating', 'krowchuk', 'kenya', 'mounted', '29th', 'buyer', 'organized', 'eligible', 'mythical', 'stations', 'control', 'turkana', 'throws', 'blue', 'graves', 'additionally', 'knb', 'moorehead', 'traders', 'yorker', 'bootleg', 'memories', 'cleaning', 'rewarding', 'recycled', 'maal', 'steps', 'overweening', 'underpinings', 'diary', '110million', 'infamous', 'guignol']
+	['turan', 'tend', 'kanda', 'trade', 'convey', 'includes', 'unacceptable', '1408', 'bygone', 'exclusive', 'blank', 'gallner', 'budget', 'caribbean', 'solve', 'confidence', 'shatters', 'ruthlessly', '376', 'course', 'farris', 'log', 'woodburn', 'playhouse', 'measure', 'attained', 'defamatory', 'rafters', 'dora', 'authoritarianism', 'rippled', 'tank', 'afi', 'fantasy', 'keen', 'sizes', 'visibly', 'notion', 'dichotomy', 'shades', '53rd', 'handpicked', 'giancarlo', 'reginald', 'zero', 'it', 'mood', 'persecutor', 'dialect', 'hood']
+	['by', 'viewable', 'demonstrated', 'resolved', 'colleagues', 'jade', 'constituted', 'topher', 'czinner', 'expectations', 'io9', 'dissonance', 'moviegoers', 'sheldon', 'streamlined', 'prominently', 'autobiographical', 'herald', 'formations', 'finger', 'summarily', 'kusik', 'anhalt', 'nanotech', '774', 'explicitly', 'games', 'edgar', 'powered', 'adonais', 'reacting', 'nautilus', 'supernatural', 'starship', 'topiary', 'bloch', 'mine', 'providing', 'accrued', 'yield', 'timberline', 'confront', 'convincingly', 'globally', 'kaes', 'resulting', 'unconditional', 'preact', 'lobrutto', 'donna']
+	['the', 'guitar', 'process', 'w', 'impulsiveness', 'fine', 'overwhelmed', 'stylisation', 'anthony', 'particularly', 'city', 'gellar', 'marija', 'lifted', 'docking', 'fends', 'previews', 'gang', 'zaha', '200', 'miyake', 'publishing', 'article', 'deauville', 'toland', 'virginia', 'erik', 'appease', 'boyfriend', 'tangye', 'opportunities', 'signify', '114', 'speculative', 'profile', 'popper', 'plastic', 'matashichi', 'unforgettable', 'vocalists', '1989', 'eraserhead', 'whether', 'jada', 'rude', 'shoe', 'photocopying', 'would', 'cropped', 'auditioned']
+
+3-gram language model using add_one smoothing.
+	['in', 'letdown', 'idolizes', 'coltan', 'apartments', 'serafine', 'match', 'serafini', '1970', 'hdr', 'survives', 'watered', 'helps', 'integral', 'watch', 'subconscious', 'westbrook', '3po', 'toilet', 'february', 'consulted', 'deviates', 'seat', 'seventh', 'families', 'aluminum', 'visited', '44th', 'objects', 'subjectivizes', 'goldwyn', 'gretel', 'architecture', 'kruger', 'belong', 'tonic', '1billion', 'lover', 'refine', 'fellow', 'lust', 'systems', 'reviewing', 'pages', 'closes', 'abridged', 'examined', 'corp', 'disgusting', 'kurtz']
+	['talent', 'jogger', 'devising', 'trinidad', 'think', 'dirty', 'louise', 'emphasis', 'attitude', 'experienced', 'outlaw', 'aelita', 'park', 'whitney', 'arcs', 'watson', 'distorting', '47million', 'weirder', 'afterwards', 'harlem', 'quarter', 'chorus', 'crusade', 'pegged', 'censorship', 'mother', 'destroy', 'lust', 'god', 'unexpected', 'killers', 'horn', 'implanted', 'imperialist', 'jim', 'panels', 'ended', 'ebola', 'troll', 'telephones', 'partially', 'empty', 'behind', 'karachay', 'mazursky', 'christy', 'guitar', '224th', 'forty']
+	['scream', 'batman', 'fanfare', 'scanned', 'biographers', 'elsa', 'simulation', 'countries', 'startling', 'ifugao', 'emmanuelle', 'edit', 'detailed', 'encouraged', 'hurtles', 'screenx', 'kuykendall', 'amphitheater', 'witty', 'triumph', 'scoop', 'camera', 'oribi', 'standards', 'areas', 'offering', 'semiotician', 'arranged', 'sociopathic', 'bag', 'understood', 'corridors', 'hyperspace', 'lest', 'retronymic', 'digging', 'maria', 'bedroom', 'pleating', '59million', 'odin', 'hostage', 'inserting', 'abridged', 'good', 'alan', 'merely', 'una', 'bore', 'organic']
+	['traeger', 'flatter', 'front', 'meanwhile', 'horrific', 'stereotypical', 'understood', 'loughlin', 'disavowed', 'ruff', 'elements', 'gate', 'ranks', 'newcomer', 'racine', 'monomyth', 'demonstrated', 'kipling', '139', 'wilson', 'proposals', 'adventurous', 'mucho', 'completed', 'installments', 'home', 'when', '9a', 'hallie', 'miniatures', 'letter', 'electrocuted', 'displayed', 'rockefeller', 'quark', 'chiaroscuro', 'koplinski', 'internationalism', 'lends', 'hughes', 'steadicam', 'deficiencies', '1965', 'requirement', 'nemo', 'count', 'dramatizes', 'archetypes', 'linked', 'torpedoes']
+	['barack', 'study', 'visually', 'fanaticism', 'dolls', 'citizenship', 'fierce', 'tunisia', 'satirizing', 'gains', 'friends', 'imply', 'adjusted', 'decoration', 'commitment', 'willed', 'display', 'chastain', 'birth', 'spectator', 'doing', 'tubing', 'obsession', 'backers', 'balkar', 'undisclosed', '39th', 'forest', 'custom', 'thompson', 'levity', 'food', 'understood', 'topic', 'probert', 'flung', 'gigantic', 'chapter', 'coffin', 'reunited', 'ceremonies', 'rj', '363', 'scheming', 'drop', 'hulled', 'thirteenth', 'xanadu', 'cutting', 'controls']
+
+1-gram language model using kneser_ney smoothing.
+	['2017', 'psychologist', 'dismay', 'to', 'tone', 'benjamin', 'struck', 'of', 'americans']
+	['vowels', 'mosquitos', 'brisker', 'which', 'kept', 'informs', 'never', 'cahill', 'received', 'fighting', 'subjective', 'inconsiderable', 'andy', 'in', 'williamson', 'and', 'in', 'unlike', 'film', 'kael', 'away', 'you', 'and', '104', 'ghost', 'bill', 'burial', 'years', 'made']
+	['fantasy', 'nonsense', 'russia', 'congressional', 'up', 'biological', 'and', 'himself', 'circulation', 'the']
+	['of', 'revolutionizing', 'granted', 'commercially', 'designers', 'hoffman', 'wasn', 'during', 'films', 'imitators', 'are', 'shatters', 'denies', 'were', 'modest', 'and', 'he', 'undertones']
+	['doom', 'depicts', 'altered', 'sentences', 'legs', 'complete', 'may', 'faulty', 'covers', 'softening', 'piece', 'rice', 'staircase', 'the', 'and', 'waited', '026', 'heavily', '10th', 'that', 'wright', 'and', 'gothic', 'terrible', 'fierstein', 'five', 'stuff', 'identified', 'could', 'the', 'his', 'mann', 'deep', 'zombie']
+
+2-gram language model using kneser_ney smoothing.
+	['it', 'ralph', 'but', 'with']
+	['edeson', 'and', 'other', 'and', 'that', 'financed', 'american', 'films', 'from', 'a', 'vision', 'of', 'randy', 'meeks', 'seemed', 'to', 'be', 'heard', 'it', 'entered', 'international', 'run', 'out', 'that', 's', 'suggestion', 'and', 'written', 'and', 'so', 'it', 'has', 'inspired', 'by', 'screenwriter', 'for', 'sequels', 'remakes', 'in', '2008', 'he', 'had', 'become', 'caligari']
+	['theatre']
+	['upon', 'which', 'represent', 'the', '1950s', 'the', 'final', 'version', 'of', 'a', 'lot', 'of', 'the', 'location', 'was', 'changed', 'elsa']
+	['herrmann', 'had', 'seen', 'with', 'arri', 'alexa', 'mini', 'series', 'in', 'japan', 'on', 'film', 'beat', 'the', 'final', 'draft', 'of', 'the', 'writer', 'to', 'join', 'frozen', 'sold', 'at', 'a', 'good', 'broadway', 'fake']
+
+3-gram language model using kneser_ney smoothing.
+	['on', 'november', '28', '2014']
+	['variety', 'compared', 'there', 'will', 'be', 'with', 'all', 'kinds', 'of', 'flung', 'lopez', 'searched', 'literary', 'away', '224th', 'poor', 'mind', 'holds', 'footage', 'ago', 'any', 'selling', 'typical', 'middle', 'did', 'was', 'to', 'tied', 's', 'sustenance', 'due', 'already']
+	['on', 'march', '20', 'pacing', 'version', 'the', 'studio', 'it', 'protest', 'attracted', 'on']
+	['the', 'film', 'itself', 'which', 'script', 'and', 'to', 'get', 'a', 'horse']
+	['the', 'hollywood', 'mark', 'andy', 'in', 'writes', 'at', 's¨¢mi', 'mus¨¦e', 'paper', 'office']
+
+Length of train_set 0.30: 3
+Length of train_set 0.50: 5
+Length of train_set 0.70: 7
+Length of train_set 0.90: 9
+Length of test_set 0.10: 1
+1.use 30% of documents:
+
+macro precision: 1.00,	macro recall: 1.00,	macro F1-score: 1.00
+micro precision: 1.00,	micro recall: 1.00,	micro F1-score: 1.00
+
+Confusion matrix:
+
+      Film
+Film     1
+
+
+
+2.use 50% of documents:
+
+macro precision: 1.00,	macro recall: 1.00,	macro F1-score: 1.00
+micro precision: 1.00,	micro recall: 1.00,	micro F1-score: 1.00
+
+Confusion matrix:
+
+      Film
+Film     1
+
+
+
+3.use 70% of documents:
+
+macro precision: 1.00,	macro recall: 1.00,	macro F1-score: 1.00
+micro precision: 1.00,	micro recall: 1.00,	micro F1-score: 1.00
+
+Confusion matrix:
+
+      Film
+Film     1
+
+
+
+4.use 90% of documents:
+
+macro precision: 1.00,	macro recall: 1.00,	macro F1-score: 1.00
+micro precision: 1.00,	micro recall: 1.00,	micro F1-score: 1.00
+
+Confusion matrix:
+
+      Film
+Film     1
+
+
+
+43.085816860198975
